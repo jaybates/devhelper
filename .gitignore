@@ -1,0 +1,4 @@
+DevHelper.egg-info
+.vscode
+*.pyc
+.env
